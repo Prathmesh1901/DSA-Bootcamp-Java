@@ -1,3 +1,5 @@
+video link - https://www.youtube.com/watch?v=lsOOs5J8ycw&list=PL9gnSGHSqcnr_DxHsP7AW9ftq0AtAyYqJ&index=24
+
 Pattern Questions
 
 Print these patterns using loops:
